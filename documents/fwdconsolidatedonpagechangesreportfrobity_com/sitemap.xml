@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://frobity.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://frobity.com/intellectual-property-law</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/freelance-chartered-accountant</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/freelance-platform-for-web-developers</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/freelance-wordpress-web-developer</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/hire-freelance-web-designer</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/freelance-tax-and-accountants-work</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/client/getLoginWithEmail</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/partner/getLoginWithEmail</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/partner/register</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/client/register</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/client/otp</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/partner/otp</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/about-us</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/jobs</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/freelancers</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/how-it-works</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/contact</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/sitemap</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/privacy-policy</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/terms-of-services</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/refund-policy</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/faq.html</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/top_freelancer_by_city</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/client/email-otp</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://frobity.com/auth/partner/email-otp</loc>
+  <priority>0.64</priority>
+</url>
+
+</urlset>

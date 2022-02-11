@@ -1,0 +1,22 @@
+<?php
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class CheckSocialIdentityFormRequest extends BaseFormRequest
+{
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules()
+    {
+        return [
+            'provider_id'=>'required',
+            'provider'=>'required',
+            'user_type'=>'required'
+        ];
+    }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.frobity.com/sitemap.xml
